@@ -1,0 +1,7 @@
+Nelson www.google.com.br 250
+Arr445 www.testes.com/dbz.wmv 20050
+Nelson www.uol.com.br 300
+Vianna debian.org/9.7.0.iso 800555
+Josicreidson microsoft.com/windows9.iso 0
+Arr445 www.gentoo.org/downloads/amd64-stg3 5
+Piratebayson microsoft.com/windows8_2.iso 14
